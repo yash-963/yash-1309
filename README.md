@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @yash-1309
 - 👀 I’m interested in Python Coding
 - 🌱 I’m currently learning Python
+-     I’m Web Developer
 - 💞️ I’m looking to collaborate on projects so i can learn as much i
 - 📫 How to reach me @itsyashgupta64@gmail.com
 
